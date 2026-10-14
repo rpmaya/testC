@@ -1,5 +1,5 @@
 /*
-Departamento de programacion
+Alfonso Castro
 7-1-2026
 cartas_blackjack
 */
@@ -74,8 +74,8 @@ int main() {
 			puntos = valor - '0';
 		}
 
-		printf("Color: %s\n", color);
-		printf("Figura: %s\n", esFigura);
+		//printf("Color: %s\n", color);
+		//printf("Figura: %s\n", esFigura);
 		printf("Puntos de blackjack: %d.\n", puntos);
 	}
     return 0;
